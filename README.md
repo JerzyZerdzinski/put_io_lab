@@ -1,4 +1,4 @@
-# put_io_lab ze zmiana github ze zmianami lokalnymi 
+# put_io_lab ze zmiana github 
 Jerzy Żerdziński
 
 dodane zmiany prze github
