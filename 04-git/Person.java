@@ -6,6 +6,7 @@ public class Person {
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
+        // Added a comment for clarity
     }
 
     public String getName() {
