@@ -12,6 +12,10 @@ public class Person {
     public String getName() {
         return name;
     }
+    // Getter for age
+    public int getAge() {
+        return age;
+    }   
 
     public void sayHello() {
         System.out.println("Hello, my name is " + name + " and I am " + age + " years old.");
