@@ -2,6 +2,7 @@
 public class Person {
     private String name;
     private int age;
+    // zmiana tymczasowa numer dwa
 
     public Person(String name, int age) {
         this.name = name;
