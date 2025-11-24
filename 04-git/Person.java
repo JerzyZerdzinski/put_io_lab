@@ -11,10 +11,6 @@ public class Person {
         return name;
     }
 
-    public int getAge() {
-        return age;
-    }
-
     public void sayHello() {
         System.out.println("Hello, my name is " + name + " and I am " + age + " years old.");
     }
