@@ -22,3 +22,4 @@ public class Person {
     }   
     // Method to display a greeting message
 }
+// Zmiana do schowaka
